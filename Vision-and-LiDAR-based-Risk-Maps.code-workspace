@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../perception_with_multi-task_neural_networks"
+		}
+	],
+	"settings": {}
+}
